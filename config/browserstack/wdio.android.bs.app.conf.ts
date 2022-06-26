@@ -29,6 +29,7 @@ config.capabilities = [
     {
         // Set your BrowserStack config
         'browserstack.debug': true,
+        'browserstack.local': true,
 
         'browserstack.user' : 'arunbalasubraman1',
         'browserstack.key' : 'xqwp5At9Yp1Y1xXeB9TM',
@@ -44,7 +45,7 @@ config.capabilities = [
         'newCommandTimeout' : '10000',
 
         // Set other BrowserStack capabilities
-        project: 'wdio-test-project',
+        project: 'wdio-bs-test-project',
         build: 'android',
         name: 'wdio-test'
     },

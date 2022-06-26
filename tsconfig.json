@@ -4,6 +4,7 @@
         "sourceMap": false,
         "target": "es2019",
         "module": "commonjs",
+        "allowJs": true,
         "removeComments": true,
         "noImplicitAny": true,
         "strictPropertyInitialization": true,
