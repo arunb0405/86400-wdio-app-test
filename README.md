@@ -8,6 +8,7 @@ Android and Cloud app Test in Wdio
 4. adb devices should return the emulator udid if the above variables are set correctly.
 5. To run on a physical device connect an android phone to windows and adb devices should list device-id (should not be un-authorized)
 Put the android phone on USB debug mode.
+Refer https://github.com/webdriverio/appium-boilerplate#readme for more instructions
 
 1. npm install 
 2. npm run android.app (to run tests)
