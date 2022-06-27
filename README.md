@@ -10,7 +10,8 @@ browserstacklocalapp.exe --key xqwp5At9Yp1Y1xXeB9TM
 
 DO NOT run 'npm install' , it only works with the node_modules that's checked-in
 
-Run the tests in browserstack -
+Run the tests in browserstack from Project Root folder where Package.json is present -
+
 npm run android.browserstack.app
 
 To run tests in Android Emulator -
