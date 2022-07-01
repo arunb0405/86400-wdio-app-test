@@ -31,8 +31,8 @@ config.capabilities = [
         'browserstack.debug': true,
         'browserstack.local': true,
 
-        'browserstack.user' : 'arunbalasubraman1',
-        'browserstack.key' : 'xqwp5At9Yp1Y1xXeB9TM',
+        'browserstack.user' : 'xxxx',
+        'browserstack.key' : 'xxxxx',
 
         // Set URL of the application under test
         // app: process.env.BROWSERSTACK_APP_ID || 'BROWSERSTACK_APP_ID',
